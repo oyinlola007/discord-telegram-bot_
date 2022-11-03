@@ -1,0 +1,1 @@
+A bot that post messages from a discord channel to a telegram gorup and also posts messages from a telegram group to a discord channel.

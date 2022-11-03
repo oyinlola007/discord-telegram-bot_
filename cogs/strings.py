@@ -1,0 +1,1 @@
+LOGGED_IN = "We have logged in as {}"
